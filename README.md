@@ -9,6 +9,7 @@ A curated list of OpenTelemetry tools, guides, and resources.
 - [Tools](#tools)
 - [Guides](#guides)
 - [Community](#community)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ---
 
